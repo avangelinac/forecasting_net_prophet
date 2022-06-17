@@ -1,0 +1,30 @@
+  339  git commit -m "commit"
+  340  git push origin main
+  341  exit
+  342  cd desktop
+  343  git clone https://github.com/avangelinac/forecasting_net_prophet.git
+  344  git clone https://github.com/avangelinac/forecasting_net_prophet.git
+  345  git add .
+  346  cd forecasting_net_prophet
+  347  git add .
+  348  git commit -m "commit part one"
+  349  git push origin main
+  350  git add .
+  351  git commit -m "commit part 2"
+  352  git push origin main
+  353  git add .
+  354  git commit -m "commit step 2"
+  355  git push origin main
+  356  git add .
+  357  git commit -m "commit step 3"
+  358  git push origin main
+  359  git add .
+  360  git commit -m "commit step 4"
+  361  git push origin main
+  362  git add .
+  363  git commit -m "commit step 5"
+  364  git push origin main
+  365  git add .
+  366  git commit -m "commit README andimages folder"
+  367  git push origin main
+  368  history 30 > terminal_history.txt
